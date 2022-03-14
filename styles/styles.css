@@ -1,3 +1,7 @@
-h1 {
-  color: red;
+/* general */
+
+html,
+body,
+ul {
+  font-family: "Open Sans", sans-serif;
 }
